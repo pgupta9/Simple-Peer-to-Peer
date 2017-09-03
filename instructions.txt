@@ -1,0 +1,36 @@
+Team Members:
+Name:	Aditya Bhardwaj		UNITY ID: ABHARDW2
+NAME:	Pratyush Gupta		UNITY ID: PGUPTA9
+
+Project Instructions:
+
+For running the project, please use 'python 3'.
+1.	For running the Client from main folder:
+
+	python3 Client/client.py
+	or
+	python Client/client.py
+
+	In case you are in the Client folder, run as follows:
+
+	python3 client.py
+	or
+	python client.py
+
+2.	For running the Server from main folder:
+	
+	python3 Server/server.py
+	or
+	python Server/server.py
+
+	In case you are in the Server folder, run as follows:
+
+	python3 server.py
+	or
+	python server.py
+
+All the other files are supplementary for the project.
+a.	rfc folder will contain the rfc files at the client side.
+b. 	rfc1 folder will contain the rfc files which one of the client side download from server of that peer.
+
+
